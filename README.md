@@ -13,8 +13,8 @@ You can change colors and transparents, ray counts and wall counts.
 <h4>Preview:</h4>
 <br>
 
-<img src="./raycast1.png">
+![gif](./raycast2.gif)
 
 <br>
 
-![gif](./raycast2.gif)
+<img src="./raycast1.png">
