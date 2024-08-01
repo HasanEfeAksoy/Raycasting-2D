@@ -8,7 +8,7 @@
 
 #define WIDTH 500
 #define HEIGHT 500
-#define TITLE "Window"
+#define TITLE "Raycasting 2D | Hasan Efe Aksoy"
 
 #define PI 3.1415926
 #define BIG 1000000
