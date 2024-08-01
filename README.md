@@ -17,4 +17,4 @@ You can change colors and transparents, ray counts and wall counts.
 
 <br>
 
-<img src="./raycast1.png">
+<img src="./raycastt.png">
